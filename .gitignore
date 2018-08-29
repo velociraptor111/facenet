@@ -2,7 +2,7 @@ led / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+.DS_Store/
 # C extensions
 *.so
 
@@ -92,3 +92,6 @@ ENV/
 
 # PyCharm project setting
 .idea
+
+datasets/
+.DS_store
