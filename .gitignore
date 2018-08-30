@@ -93,5 +93,8 @@ ENV/
 # PyCharm project setting
 .idea
 
+# Custom
+
+trained_models/
 datasets/
 .DS_store
